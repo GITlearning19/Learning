@@ -8,3 +8,5 @@ DO ISTQB
 Many things to Do
 
 Thank you
+
+Bye to GIT
